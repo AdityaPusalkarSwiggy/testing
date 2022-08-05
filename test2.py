@@ -1,1 +1,1 @@
-print( "Tough code")
+print ("Tough code")
